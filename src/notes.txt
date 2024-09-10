@@ -1,0 +1,23 @@
+# 1. Creat the vite setup
+npm create vite@latest ./ -- --template react
+
+# 2. Tailwind installation
+npm install --legacy-peer-deps -D tailwindcss postcss autoprefixer
+npx tailwindcss init
+
+# 3. Rest of the packages (peer-deps is for the tilt package)
+# https://www.youtube.com/watch?v=0fYi8SGA20k (12:30)
+npm install --legacy-peer-deps 
+@react-three/fiber 
+@react-three/drei 
+maath 
+react-tilt 
+react-vertical-timeline-component 
+@emailjs/browser 
+framer-motion 
+react-router-dom
+
+# 4. Install the legacy "three" for 3JS
+npm install --legacy-peer-deps three
+
+### First render happens at (54:24)

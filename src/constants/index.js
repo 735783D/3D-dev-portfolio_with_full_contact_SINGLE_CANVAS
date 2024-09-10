@@ -59,7 +59,7 @@ import {
     donut,
     python,
     aws_logo,
-    pyscript,
+    portscan,
     linkedin,
     kali,
   } from "../assets";
@@ -427,7 +427,7 @@ import {
       source_code_link: "https://735783d.github.io/2d-portfolio-kaboom/",
     },
     {
-      name: "Python Batcher",
+      name: "Port Scanner",
       description:
         "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
       tags: [
@@ -440,13 +440,13 @@ import {
           color: "green-text-gradient",
         },
         {
-          name: "excel",
+          name: "security",
           color: "pink-text-gradient",
         },
       ],
-      image: pyscript,
+      image: portscan,
       image2: github,
-      source_code_link: "https://github.com/735783D/JasonsConversionBatcher/tree/master",
+      source_code_link: "https://github.com/735783D/PortScanner",
     },
   ];
 

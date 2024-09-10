@@ -40,7 +40,7 @@ import linkedin from "./company/linkedin_logo.png";
 import carAnimation from "./TheMeeting.png";
 import donut from "./DonutPower.png";
 import kaboom from "./Gamified.png";
-import pyscript from "./BatchingScript.png";
+import portscan from "./port_scanner.png";
 
 // icons for certs
 import secspec from "./certs/secspec.png";
@@ -80,7 +80,7 @@ import wgu from "./education/WGU.png";
 export {
   kali,
   linkedin,
-  pyscript,
+  portscan,
   aws_logo,
   python,
   donut,
